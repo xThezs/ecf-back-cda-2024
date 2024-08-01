@@ -2,7 +2,8 @@
 
 # Modalités d'envoi du projet
 Faite un fork de ce repository git et remplissez le fichier *bdd.sql* avec toutes les commandes sql qui permettent la mise en place de la bdd.
-
+![alt text](image.png)
+Voir fork en haut à droite
 # Description du projet
 Modéliser la base de données du système de commande par borne du McDonalds de Souillac-les-bains.
 
